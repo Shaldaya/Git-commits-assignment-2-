@@ -11,3 +11,4 @@ Dec 9 32/28 degrees F and fog
 Dec 10 48/32 degrees F light snow ice fog
 Dec 11 36/34 degrees F and overcast
 Dec 12 32/30 degrees F and overcast
+Dec 13 28/28 degrees F and overcast
