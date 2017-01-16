@@ -20,3 +20,4 @@ Dec 18 18/16 degrees F and clear
 Dec 19 19/16 degrees F and passing clouds
 Dec 20 27/25 degrees F and clear
 Dec 21 32/30 degrees F and fog
+Dec 22 28/27 degrees F and overcast
