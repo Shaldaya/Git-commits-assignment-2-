@@ -7,3 +7,4 @@ Dec 5 32/23 degrees F and low clouds
 Dec 6 27/21 degrees F and low clouds
 Dec 7 30/21 degrees F and fog
 Dec 8 37/34 degrees F and cool
+Dec 9 32/28 degrees F and fog
