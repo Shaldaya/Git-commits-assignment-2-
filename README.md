@@ -23,3 +23,4 @@ Dec 21 32/30 degrees F and fog
 Dec 22 28/27 degrees F and overcast
 Dec 23 28/27 degrees F and overcast
 Dec 24 39/37 degrees F and fog
+Dec 25 30/27 degrees F and overcast
