@@ -27,3 +27,4 @@ Dec 25 30/27 degrees F and overcast
 Dec 26 16/14 degrees F and clear
 Dec 27 14/5 degrees F and heavy rain mostly cloudy
 Dec 28 13/12  degrees F and rain
+Dec 29 16/28 degrees F and overcast
