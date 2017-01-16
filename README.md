@@ -18,3 +18,4 @@ Dec 16 48/46 degrees F and sunny
 Dec 17 27/23 degrees F and clear
 Dec 18 18/16 degrees F and clear
 Dec 19 19/16 degrees F and passing clouds
+Dec 20 27/25 degrees F and clear
