@@ -16,3 +16,4 @@ Dec 14 34/32 degrees F and fog
 Dec 15 34/32 degrees F and overcast
 Dec 16 48/46 degrees F and sunny
 Dec 17 27/23 degrees F and clear
+Dec 18 18/16 degrees F and clear
